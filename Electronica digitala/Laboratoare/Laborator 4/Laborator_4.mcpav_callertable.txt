@@ -1,0 +1,9 @@
+main
+	init_timer
+	init_INT0
+	init_INT1
+sec_min
+	display
+	Div_16x16_S
+minut
+secunda

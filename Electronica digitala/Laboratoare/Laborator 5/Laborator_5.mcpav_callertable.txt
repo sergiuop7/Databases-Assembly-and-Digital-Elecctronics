@@ -1,0 +1,8 @@
+main
+	init_adc
+	init_timer0
+	__CC2DW
+Timer0
+	display
+	read_ADC
+	Div_16x16_S
